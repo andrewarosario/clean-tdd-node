@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andrewarosario/clean-tdd-node/issues"
   },
-  "homepage": "https://github.com/andrewarosario/clean-tdd-node#readme"
+  "homepage": "https://github.com/andrewarosario/clean-tdd-node#readme",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
 }
